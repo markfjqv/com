@@ -1,0 +1,1 @@
+var __index = {"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"index.html","title":"Home","text":"<p>\ud83d\udc4b</p>"}]}
